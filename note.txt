@@ -1,0 +1,3 @@
+Di dalam file sql itu sudah ada akun yang terdaftar dengan role admin, agar bisa mengakses fitur admin panel.
+Username : ReyyVERT
+Password : ReyGanteng123
